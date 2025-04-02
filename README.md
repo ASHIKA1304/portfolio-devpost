@@ -97,9 +97,9 @@
         <div class="mt-4">
             <h4 class="section-title">Awards</h4>
             <ul>
-                <li>Best Teacher Award (2023)</li>
-                <li>Best Research Advisor (2020)</li>
                 <li>Best Faculty Award (2017)</li>
+                <li>Best Research Advisor (2020)</li>
+                <li>Best Teacher Award (2023)</li>
             </ul>
         </div>
     </div>
@@ -107,4 +107,6 @@
 </html>
 
 
-![1743579075831-b0ac86e0-86c8-43a3-a3d6-5a80f316d2a3_1](https://github.com/user-attachments/assets/41ac9968-d538-4074-9303-e21f5464a217)
+
+![Simple Professional CV Resume](https://github.com/user-attachments/assets/3aaee3c5-e830-4df2-bc7a-368d19151b0d)
+
